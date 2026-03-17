@@ -31,7 +31,7 @@ src/
 
 ## Technology Stack
 
-- **Expo SDK 55** – React Native framework
+- **Expo SDK 54** – React Native framework
 - **React Native Paper** – Material Design components
 - **React Navigation** – Routing and navigation
 - **Zustand** – State management
@@ -71,7 +71,7 @@ npm install
 
 ## Screenshots
 
-*(Add screenshots here)*
+![App Screenshot](assets/photo_2026-03-17_18-49-11.jpg)
 
 ## Architecture Decisions
 
